@@ -371,22 +371,22 @@ export const loans = [
 export const profData = [
     {
         "id": "DOC001",
-        "title": "Dr. Priya MBBS., MD.",
+        "title": "Ms Richa Ahuja - English Teacher",
         "imageUrl": "/images/doctor.jpg"
     },
     {
         "id": "EDU001",
-        "title": "Prof. Meera Iyer MA., MPhil.",
+        "title": "Prof. Meera Iyer - Mathematics Professor",
         "imageUrl": "/images/stock/teacher.jpg"
     },
     {
         "id": "LAW001",
-        "title": "Mr. Rajesh Gupta MA., LLM",
+        "title": "Mr. Rajesh Gupta - Legal Advisor",
         "imageUrl": "/images/lawyer.jpg"
     },
     {
         "id": "CA001",
-        "title": "Mr. Suresh Patil M.Com., CA",
+        "title": "Mr. Suresh Patil - Auditor",
         "imageUrl": "/images/stock/CA.jpg"
     }
 
